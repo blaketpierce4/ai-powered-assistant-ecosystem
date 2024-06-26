@@ -1,6 +1,4 @@
 
-### `CONTRIBUTING.md`
-```markdown
 # Contributing to AI-Powered Personal Assistant Ecosystem
 
 We welcome contributions to the AI-Powered Personal Assistant Ecosystem project! By contributing, you can help improve the project and make it more useful for everyone.

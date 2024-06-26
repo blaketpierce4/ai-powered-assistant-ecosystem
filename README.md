@@ -42,3 +42,31 @@ This project utilizes Intel NUC and Jetson Nano devices for edge computing to ha
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/yourusername/ai-powered-assistant-ecosystem.git
+   
+
+# Project Setup and Deployment
+
+## Set Up Edge Devices
+
+Follow the instructions in the `edge-devices/` directory to set up Intel NUC and Jetson Nano.
+
+## Deploy to AWS
+
+Follow the instructions in the `aws/` directory to set up the AWS infrastructure and deploy backend services.
+
+## Run the Applications
+
+Start the iPad app and web application to begin interacting with your AI-powered assistant.
+
+## Contributing
+
+We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) to learn how you can help improve this project.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any questions or support, please open an issue or contact us at [blaketpierce04@gmail.com](mailto:blaketpierce04@gmail.com).
+

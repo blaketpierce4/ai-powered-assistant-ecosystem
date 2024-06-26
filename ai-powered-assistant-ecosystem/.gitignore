@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+*.log
+*.pyc
+__pycache__/
+.env
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.p12
+*.pem
+*.key
+secrets.yaml
+
